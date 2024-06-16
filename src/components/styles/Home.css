@@ -1,0 +1,10 @@
+.home {
+  position: relative;
+}
+.home__color {
+  position: absolute;
+  background-color: var(--color-header);
+  height: 100%;
+  width: 100%;
+  top: 0;
+}
